@@ -1,0 +1,54 @@
+{
+  "name": "recusandaedolorum",
+  "version": "1.0.0",
+  "author": "RandallKuvalis",
+  "description": "Command-line tool to query the blockchain for a variety of cryptos. View blocks, transactions, and accounts (where applicable).",
+  "keywords": [
+    "repellendus",
+    "btc",
+    "voluptates",
+    "ut",
+    "earum",
+    "dcr",
+    "doloremque",
+    "doge",
+    "quia",
+    "rerum",
+    "est",
+    "dolorem",
+    "eos",
+    "est",
+    "nihil",
+    "dolor",
+    "sc",
+    "sed",
+    "consectetur",
+    "excepturi",
+    "facilis",
+    "xmr",
+    "est",
+    "zec",
+    "provident",
+    "blockchain",
+    "molestias",
+    "qui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TerenceMayer/recusandaedolorum.git"
+  },
+  "license": "GPL-3.0",
+  "bin": {
+    "blocke": "bin/blocke.js"
+  },
+  "dependencies": {
+    "cli-spinner": "^0.2.6",
+    "command-line-args": "^4.0.6",
+    "command-line-commands": "^2.0.1",
+    "command-line-usage": "^4.0.0",
+    "ethereum-input-data-decoder": "0.0.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "underscore": "^1.8.3"
+  }
+}
